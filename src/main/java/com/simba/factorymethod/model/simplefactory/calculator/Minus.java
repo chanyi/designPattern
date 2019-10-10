@@ -1,4 +1,4 @@
-package com.simba.factorymethod.model.calculator;
+package com.simba.factorymethod.model.simplefactory.calculator;
 
 public class Minus implements Calculator {
 

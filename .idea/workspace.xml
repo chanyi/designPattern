@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b159867-4e6f-49bf-bef6-80fc9730c323" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/controller/FactoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/controller/FactoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/ConcreteAbstractFactory1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/ConcreteAbstractFactory1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/ConcreteAbstractFactory2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/ConcreteAbstractFactory2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/ConcreteProduct1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/ConcreteProduct1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/ConcreteProduct2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/ConcreteProduct2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/calculator/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/calculator/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/calculator/Minus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/Minus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/calculator/Plus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/Plus.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,106 +30,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/ConcreteAbstractFactory1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/Factory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="81" />
+            <state relative-caret-position="125">
+              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/ConcreteProduct1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/Minus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="43" />
-              <folding>
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="50">
+              <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/ConcreteProduct2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/ConcreteAbstractFactory1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding>
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="125">
+              <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/calculator/Calculator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/ConcreteAbstractFactory2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/ConcreteProduct1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/ConcreteProduct2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/Plus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/AbstractFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="3" column="44" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/calculator/Factory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/calculator/Plus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/calculator/Minus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/ConcreteAbstractFactory2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/controller/FactoryController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/builder/model/Item.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="50">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -128,6 +125,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
+        <option value="Arquillian JUnit Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -161,7 +159,29 @@
         <option value="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/calculator/MinusFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/calculator/Calculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/calculator/Factory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/ConcreteProduct2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/ConcreteProduct1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/Shape.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/ShapeCircle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/ShapeRectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/Color.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/ColorGreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/ColorRed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/ConcreteFactory1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/ColorFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/AbstractFactoryProducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/controller/AbstractFactoryController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/ShapeFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/controller/FactoryController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/Factory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/MinusTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/CalculatorInterFace.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/Plus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/Minus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/AbstractFactory.java" />
       </list>
     </option>
   </component>
@@ -216,7 +236,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="simba" type="462c0819:PsiDirectoryNode" />
-              <item name="factorymethod" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -225,36 +245,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="simba" type="462c0819:PsiDirectoryNode" />
-              <item name="factorymethod" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="simba" type="462c0819:PsiDirectoryNode" />
-              <item name="factorymethod" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="simba" type="462c0819:PsiDirectoryNode" />
-              <item name="factorymethod" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="calculator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,18 +261,27 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.simba.factorymethod.model.simplefactory.calculator" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.simba.abstractfactory.model" />
       <recent name="com.simba.factorymethod.model.calculator" />
       <recent name="com.simba.factorymethod.model" />
       <recent name="com.simba.singleton.model" />
       <recent name="com.simba.service.impl" />
-      <recent name="com.simba.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\workProjectGit\designPattern" />
@@ -291,9 +299,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FactoryController">
+  <component name="RunManager" selected="Application.AbstractFactoryController">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbstractFactoryController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.simba.abstractfactory.controller.AbstractFactoryController" />
+      <module name="designPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simba.abstractfactory.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -387,6 +409,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AbstractFactoryController" />
         <item itemvalue="Application.FactoryController" />
         <item itemvalue="Application.PrototypeController" />
         <item itemvalue="Application.LazySingleton" />
@@ -407,18 +430,20 @@
       <workItem from="1569399000579" duration="1999000" />
       <workItem from="1569725002445" duration="5864000" />
       <workItem from="1570494089522" duration="1266000" />
-      <workItem from="1570503664127" duration="23290000" />
+      <workItem from="1570503664127" duration="27213000" />
+      <workItem from="1570692507956" duration="41000" />
+      <workItem from="1570692849152" duration="957000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32419000" />
+    <option name="totallyTimeSpent" value="37340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1692" height="1026" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2591912" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2622549" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -427,8 +452,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32922733" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32922733" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39977604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -543,95 +568,194 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/AbstractFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <state relative-caret-position="50">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/ConcreteAbstractFactory2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/ConcreteAbstractFactory1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/ShapeCircle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/ConcreteProduct1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="43" />
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="33" />
           <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/ConcreteProduct2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/Color.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        <state relative-caret-position="75">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/ColorGreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="32" />
           <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/Product.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/ColorRed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/ColorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/AbstractFactoryProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/controller/AbstractFactoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/ShapeRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/abstractfactory/model/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#436#437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/MinusTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/calculator/Plus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/calculator/Minus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/calculator/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/calculator/Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/controller/FactoryController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="375">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/Minus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/Plus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/simplefactory/calculator/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/ConcreteProduct2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/ConcreteProduct1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/ConcreteAbstractFactory2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/ConcreteAbstractFactory1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/factorymethod/model/factorymethod/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/simba/builder/model/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>

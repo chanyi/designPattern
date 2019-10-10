@@ -1,5 +1,4 @@
-package com.simba.factorymethod.model;
-import com.simba.factorymethod.model.Product;
+package com.simba.factorymethod.model.factorymethod;
 
 public class ConcreteProduct1 implements Product {
 

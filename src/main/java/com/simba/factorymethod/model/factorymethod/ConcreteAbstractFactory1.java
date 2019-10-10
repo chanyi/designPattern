@@ -1,4 +1,4 @@
-package com.simba.factorymethod.model;
+package com.simba.factorymethod.model.factorymethod;
 
 public class ConcreteAbstractFactory1 implements AbstractFactory{
 

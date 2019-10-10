@@ -1,10 +1,9 @@
 package com.simba.factorymethod.controller;
 
-import com.simba.factorymethod.model.ConcreteAbstractFactory1;
-import com.simba.factorymethod.model.ConcreteProduct1;
-import com.simba.factorymethod.model.Product;
-import com.simba.factorymethod.model.calculator.Calculator;
-import com.simba.factorymethod.model.calculator.Factory;
+import com.simba.factorymethod.model.factorymethod.ConcreteAbstractFactory1;
+import com.simba.factorymethod.model.factorymethod.Product;
+import com.simba.factorymethod.model.simplefactory.calculator.Calculator;
+import com.simba.factorymethod.model.simplefactory.calculator.Factory;
 
 public class FactoryController {
 
@@ -14,7 +13,7 @@ public class FactoryController {
     Product product = concreteAbstractFactory1.newProduct();
     product.show();
 
-    //计算器
+    //通过传入的参数选择具体工厂
     Calculator calculator = Factory.getCalculator("-");
     double result = calculator.calculate(1.0,2.0);
     System.out.println("re:"+result);
