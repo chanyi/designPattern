@@ -1,7 +1,5 @@
 package com.simba.flyweight.model;
 
-import javafx.scene.shape.Circle;
-
 public class ShapeCircle implements Shape {
   private String color;
   private int x;
@@ -36,6 +34,6 @@ public class ShapeCircle implements Shape {
 
   @Override
   public void draw() {
-    toString();
+    System.out.println(toString());
   }
 }
