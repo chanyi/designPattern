@@ -1,0 +1,7 @@
+package com.simba.iterator.model;
+
+public interface Aggregate {
+  public void add(Object object);
+  public void remove(Object object);
+  public Iterator getIterator();
+}
